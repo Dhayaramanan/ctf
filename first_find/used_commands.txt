@@ -1,0 +1,5 @@
+unzip file.zip
+cd files
+p=$(find . -name 'uber-secret.txt')
+cat $p
+

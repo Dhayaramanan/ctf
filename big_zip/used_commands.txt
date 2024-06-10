@@ -1,0 +1,3 @@
+unzip big-zip-files.zip
+grep --directories=recurse picoCTF
+

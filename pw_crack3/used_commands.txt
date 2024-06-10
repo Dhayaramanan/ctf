@@ -1,0 +1,2 @@
+for i in {0..7}; do python level3.py; done;
+all possibilities entered after

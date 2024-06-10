@@ -1,0 +1,2 @@
+cd Addadshashanammu/<tab>/<tab>/..../Ularradallaku
+strings fang-of-haynekhtnamet | grep pico

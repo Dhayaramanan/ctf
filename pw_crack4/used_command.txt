@@ -1,0 +1,2 @@
+python level4.py | grep picoCTF
+edited level4.py file a bit
